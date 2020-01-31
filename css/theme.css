@@ -1,0 +1,44 @@
+:root {
+  --color-primary: #6a5246;
+  --color-primary-light: #c79859;
+  --color-secondary: #c79859;
+  --color-accent: #EADEC0;
+  --color-accent: #e2e2e2;
+  --color-accent: #536278;
+
+  --font-primary:  "modesto-open-primary", sans-serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
+
+h1 {
+  font-family: "modesto-expanded", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "modesto-poster", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+  font-family: "matrix-ii", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p {
+font-family: "matrix-ii", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+a {
+font-family: "modesto-open-inline-fill", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
