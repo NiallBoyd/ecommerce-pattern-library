@@ -3,15 +3,18 @@ theme: jekyll_patternbot
 
 patternbot:
   title: "Coffee"
-  description: | A small old coffee shop
-  typeface.primary: |
-  font_url: "https://use.typekit.net/arf3lvz.css"
-    typeface.secondary: |
-colors:
+  description: |
+    A small old coffee shop
 
-  background: "--color-secondary-light"
-  accent: "--color-primary-dark"
+  font_url: "https://use.typekit.net/arf3lvz.css"
+
+  colors:
+    background: "--color-secondary-light"
+    accent: "--color-accent-light"
     patterns:
       brand.logos: "--color-primary-light"
-      rotionales:
-        typefaces.primary: |
+  rationales:
+    typefaces.primary: |
+      asdfasdf
+    typeface.secondary: |
+      asdfff  asdf
