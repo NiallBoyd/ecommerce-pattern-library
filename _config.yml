@@ -2,4 +2,16 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: "Coffee"
+  description: | A small old coffee shop
+  typeface.primary: |
   font_url: "https://use.typekit.net/arf3lvz.css"
+    typeface.secondary: |
+colors:
+
+  background: "--color-secondary-light"
+  accent: "--color-primary-dark"
+    patterns:
+      brand.logos: "--color-primary-light"
+      rotionales:
+        typefaces.primary: |

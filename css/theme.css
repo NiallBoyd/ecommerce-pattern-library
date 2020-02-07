@@ -7,6 +7,7 @@
   --color-accent: #536278;
 
   --font-primary:  "modesto-open-primary", sans-serif;
+  --font-secondary: "matrix-ii", serif;
 }
 
 html {
@@ -14,31 +15,38 @@ html {
 }
 
 h1 {
-  font-family: "modesto-expanded", serif;
+  font-family: var(--font-primary);
   font-weight: 400;
   font-style: normal;
 }
 
 h2 {
-  font-family: "modesto-poster", serif;
+  font-family: var(--font-primary);
   font-weight: 400;
   font-style: normal;
 }
 
 h3 {
-  font-family: "matrix-ii", serif;
+  font-family: var(--font-secondary);
   font-weight: 700;
   font-style: normal;
 }
 
 p {
-font-family: "matrix-ii", serif;
+font-family: var(--font-secondary);
 font-weight: 400;
 font-style: normal;
 }
 
 a {
-font-family: "modesto-open-inline-fill", sans-serif;
-font-weight: 400;
+font-family: var(--font-secondary);
+font-weight: 500;
 font-style: normal;
+text-decoration: none;
+color: black;
+}
+
+mark {
+  background: var(--color-accent);
+  color: #fff;
 }
