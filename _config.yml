@@ -6,13 +6,13 @@ patternbot:
   description: |
     A small old coffee shop
 
-  font_url: "https://use.typekit.net/arf3lvz.css"
+  font_url: "https://use.typekit.net/gkk5zti.css"
 
   colors:
-    background: "--color-secondary-light"
-    accent: "--color-accent-light"
+    background: "--color-accent"
+    accent: "--color-accent-blue"
     patterns:
-      brand.logos: "--color-primary-light"
+      brand.logos: "--color-accent-blue"
   rationales:
     typefaces.primary: |
       asdfasdf

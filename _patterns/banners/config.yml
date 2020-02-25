@@ -1,0 +1,13 @@
+title: "Banners"
+description: |
+  This is the banners. The banners is used for...
+
+patterns:
+  main-banner:
+    title: "Main Banner"
+    description: |
+      Main banner is...
+  project-banner:
+    title: "Project Banner"
+    description: |
+      Project banner is...

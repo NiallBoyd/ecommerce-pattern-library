@@ -1,0 +1,15 @@
+title: "Cards"
+description: |
+  This is the cards.
+
+patterns:
+  card-1:
+    title: "Card One"
+    description: |
+      Card one is...
+    background: "--color-accent-blue"
+  card-purchase:
+    title: "Purchase Card"
+    description: |
+      Purcahse card is...
+    background: "--color-accent"

@@ -1,0 +1,9 @@
+title: "Sections"
+description: |
+  This is the sections.
+
+patterns:
+  text-banner:
+    title: "Text Banner Section"
+    description: |
+      The text banner section...

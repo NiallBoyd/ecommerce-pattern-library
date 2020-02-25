@@ -1,0 +1,26 @@
+title: "Forms"
+description: |
+  This is the forms.
+
+patterns:
+  email:
+    title: "Email Field"
+    description: |
+      Email field is...
+  name:
+    title: "Name Field"
+    description: |
+      Name field is...
+    background: "--color-accent"
+  subject:
+    title: "Subject Field"
+    description: |
+      Subject field is...
+  text-field:
+    title: "Text Box Field"
+    description: |
+      Text box field is...
+  number-picker:
+    title: "Number Picker Field"
+    description: |
+      Number picker field is...

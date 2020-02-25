@@ -1,13 +1,12 @@
 :root {
   --color-primary: #6a5246;
-  --color-primary-light: #c79859;
   --color-secondary: #c79859;
-  --color-accent: #EADEC0;
-  --color-accent-light: #e2e2e2;
-  --color-accent: #536278;
+  --color-accent: #fff;
+  --color-accent-blue: #536278;
+  --color-accent-green: #8D9D8F;
 
-  --font-primary:  "modesto-open-primary", sans-serif;
-  --font-secondary: "matrix-ii", serif;
+  --font-primary: "modesto-initials", serif;
+  --font-secondary: "modesto-poster", serif;
 }
 
 html {
@@ -49,4 +48,9 @@ color: black;
 mark {
   background: var(--color-accent);
   color: #fff;
+}
+
+
+.max-space {
+  max-width: 28em;
 }
