@@ -6,10 +6,16 @@ patterns:
   card-1:
     title: "Card One"
     description: |
-      Card one is...
+      This on the main page going to each type of coffee.
     background: "--color-accent-blue"
+    fields:
+     - name: data
+       type: object
+       data:
+         source: "site.products[0]"
+         type: Product
   card-purchase:
     title: "Purchase Card"
     description: |
-      Purcahse card is...
+      This where you purchase a cup of coffee.
     background: "--color-accent"
